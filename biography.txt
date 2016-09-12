@@ -1,8 +1,31 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
+My name is Dave Froslie.
+
 2. Why are you interested in Data Science?
+Data science is making a huge impact in the world of software development. One benefit is the ability gain insight into customer usage through collection, aggregation, and analysis 
+of product telemetry. Another benefit is integration of machine learning and analytics into products to make them more useful.   
+
+Personally, making sense of data has always been an area of interest.   Getting a master's degree in data science will give me a better foundation and present new opportunities for me in this exciting field.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+After graduating with a degree in electrical engineering, I've been in the software engineering field for 30 years.  While I've been around programming consistently, many of 
+these years were spent in managerial and architectural roles that didn't involve day to day coding.  I've used R a fair amount in the last couple of years for a variety of data 
+analysis tasks, and really enjoy using it!  I use C# sometimes and am reasonably proficient in it.  Back in the day, I would also claim proficiency in C.  
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I just finished DS705 this summer, so that is fresh in my mind.  I also took statistics classes many years ago in my undergrad program and, later, in my MBA program.  My job as an 
+architect for Microsoft Dynamics products involves driving software quality.  I use some statistics in my job as part of analyzing data related to product quality and/or customer 
+usage, but anticipate it becoming a much stronger focus as we move our products to the cloud where we have significantly more telemetry available. 
+
 5.  Do you have other experience with R or Python?
+As noted in #3, I consider myself reasonable proficient in R.  I've used Python some for a Coursera course, but not otherwise.
+
 6.  What do you hope to learn in this class?
+The great thing about taking classes in a topic that you have some familiarity with is getting different viewpoints and learning parts of the topic that you didn't know about.  
+For example... while I have some statistics background, this past summer's class taught me a ton about hypothesis testing and a few other topics.  I expect this class will do the 
+same for R and Python, as well as approaching data science problems from a programming perspective.
+
 7.  Is there anything else you would like to share with us?
+I'm looking forward to the class!
