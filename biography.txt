@@ -20,12 +20,12 @@ architect for Microsoft Dynamics products involves driving software quality.  I 
 usage, but anticipate it becoming a much stronger focus as we move our products to the cloud where we have significantly more telemetry available. 
 
 5.  Do you have other experience with R or Python?
-As noted in #3, I consider myself reasonable proficient in R.  I've used Python some for a Coursera course, but not otherwise.
+As noted in #3, I consider myself reasonably proficient in R.  I've used Python a bit for a Coursera course, but not otherwise.
 
 6.  What do you hope to learn in this class?
 The great thing about taking classes in a topic that you have some familiarity with is getting different viewpoints and learning parts of the topic that you didn't know about.  
-For example... while I have some statistics background, this past summer's class taught me a ton about hypothesis testing and a few other topics.  I expect this class will do the 
-same for R and Python, as well as approaching data science problems from a programming perspective.
+For example, while I have some statistics background, this past summer's class taught me a ton about hypothesis testing and a few other topics.  I expect this class will do the 
+same for R and Python, as well as teach me about pproaching data science problems from a programming perspective.
 
 7.  Is there anything else you would like to share with us?
 I'm looking forward to the class!
